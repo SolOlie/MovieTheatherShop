@@ -40,7 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="DLLFacade.cs" />
+=======
+    <Compile Include="Entities\AbstractEntity.cs" />
+>>>>>>> b630c510f514d3685aee7de99e23997933217926
     <Compile Include="Entities\Address.cs" />
     <Compile Include="Entities\Customer.cs" />
     <Compile Include="Entities\Genre.cs" />
