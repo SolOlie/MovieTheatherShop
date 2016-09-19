@@ -15,6 +15,7 @@ namespace MovieTheaterShopDll
        T Update(T t);
 
        List<T> ReadAll();
+        T ReadOne(int id);
 
     }
 }
